@@ -4,7 +4,8 @@ Base API
 
 ## Support
 
-Kevelyn Nascimento <a href="https://www.linkedin.com/in/zhdruvo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+Kevelyn Nascimento 
+<a href="https://www.linkedin.com/in/kevelynnascimento" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Installation
 
