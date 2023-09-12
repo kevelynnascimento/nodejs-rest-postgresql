@@ -52,6 +52,36 @@ Kevelyn Nascimento
 $ typeorm migration:create src/migrations/{table-name}/{table-name}-{action}
 ```
 
+**Generate module**
+
+```bash
+$ nest g module core/table-name
+```
+
+**Generate entity**
+
+```bash
+$ nest g class core/table-name/table-name.entity
+```
+
+**Generate repository**
+
+```bash
+$ nest g class core/table-name/table-name.repository
+```
+
+**Generate service**
+
+```bash
+$ nest g service core/table-name
+```
+
+**Generate controller**
+
+```bash
+$ nest g controller core/table-name
+```
+
 **Build docker**
 
 ```bash
